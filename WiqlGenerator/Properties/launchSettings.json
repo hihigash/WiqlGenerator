@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WiqlGenerator": {
+      "commandName": "Project",
+      "commandLineArgs": "優先度の高い私のタスク"
+    }
+  }
+}
